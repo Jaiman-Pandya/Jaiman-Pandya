@@ -1,4 +1,4 @@
-# Hello — welcome to my GitHub
+# Welcome to my GitHub!
 
 Most of my repositories are **private** and contain professional work done for companies.
 
