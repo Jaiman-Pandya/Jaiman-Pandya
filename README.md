@@ -1,7 +1,6 @@
 ### Welcome to my GitHub!
 
-You’ll find a curated selection of my public work here.  
-Much of my engineering work from internships and industry projects is kept private to respect company IP, but I’m always happy to walk through or provide access to specific codebases referenced in my resume.
+You’ll find a curated selection of my public work here. Much of my engineering work from internships and industry projects is kept private to respect company IP, but I’m always happy to walk through or provide access to specific codebases referenced in my resume.
 
 If you’d like to review something in particular, feel free to reach out:
 
