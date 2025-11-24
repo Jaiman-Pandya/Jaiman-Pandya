@@ -56,6 +56,19 @@ I'm a Mathematics and Computer Science student at Northeastern University focuse
 
 ---
 
+## Honors and Awards
+
+- **YC AI Startup School** — Top 10% Attendees; invited to private dinner with YC Partner  
+- **YC 2025 Summer Conference** — Selected as **1 of 60** nationwide undergraduate attendees  
+- **YC Founders & Builders** — Invited participant  
+- **Jane Street Summer Social** — Selected attendee  
+- **IMC Prosperity Quantitative Trading Challenge** — Top **5%** globally  
+- **USACO Platinum Division** — Top **1%** high school competitive programmers  
+- **MIT Winter Informatics Tournament** — Top **20%**  
+- **MIT Informatics Tournament** — Top **15%**  
+- **University of San Diego Research Symposium** — Presenter
+
+
 ## Recent Project
 
 ### **Adaptive Feed Reliability Platform**
