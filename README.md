@@ -21,7 +21,7 @@ I'm a Mathematics and Computer Science student at Northeastern University focuse
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Languages**
 <p>
