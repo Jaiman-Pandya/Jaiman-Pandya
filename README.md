@@ -17,7 +17,7 @@ I'm a Mathematics and Computer Science student at Northeastern University focuse
 - **Cloud-native services (AWS, Docker, Kubernetes)**
 - **Machine learning pipelines & model experimentation**
 - **System reliability, caching, and performance optimization**
-- **Full-stack development with TypeScript + React + Next.js**
+- **Full-stack development with TypeScript, React, and Next.js**
 
 ---
 
