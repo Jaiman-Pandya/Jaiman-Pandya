@@ -69,13 +69,12 @@ I'm a Mathematics and Computer Science student at Northeastern University focuse
 - **University of San Diego Research Symposium** — Presenter
 
 
-## Recent Project
+## Recent Stuff
 
-### **Adaptive Feed Reliability Platform**
-A simulation and visualization toolkit for evaluating caching behavior, latency variance, and backend error patterns in large-scale feed systems. Models control vs. treatment pipelines and visualizes p50/p95/p99 latency, cache-hit ratios, and error rates.
+### **VendorWatch | Y Combinator and MongoDB Hackathon**
+VendorWatch is a vendor risk monitoring system that tracks changes to what third-party vendors officially commit to in their terms, policies, pricing pages, and SLAs. It crawls vendor websites, extracts structured information like liability clauses, billing terms, data practices, and uptime guarantees, and stores versioned snapshots to detect meaningful changes over time. When those commitments change, VendorWatch generates categorized risk alerts and notifies teams so they can review potential legal, financial, or compliance exposure early.
 
-**Tech:** Python, Streamlit, NumPy, Pandas, Redis (modeled), AWS (modeled)
-
+**Tech Stack**: Next.js, React, Tailwind CSS, Node.js, MongoDB, Firecrawl API, Reducto API, Resend API, Claude API, Railway
 ---
 
 ## Areas of Work & Exploration
