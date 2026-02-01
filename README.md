@@ -74,7 +74,8 @@ I'm a Mathematics and Computer Science student at Northeastern University focuse
 ### **VendorWatch | Y Combinator and MongoDB Hackathon**
 VendorWatch is a vendor risk monitoring system that tracks changes to what third-party vendors officially commit to in their terms, policies, pricing pages, and SLAs. It crawls vendor websites, extracts structured information like liability clauses, billing terms, data practices, and uptime guarantees, and stores versioned snapshots to detect meaningful changes over time. When those commitments change, VendorWatch generates categorized risk alerts and notifies teams so they can review potential legal, financial, or compliance exposure early.
 
-**Tech Stack**: Next.js, React, Tailwind CSS, Node.js, MongoDB, Firecrawl API, Reducto API, Resend API, Claude API, Railway
+#### Tech Stack
+Next.js, React, Tailwind CSS, Node.js, MongoDB, Firecrawl API, Reducto API, Resend API, Claude API, Railway
 ---
 
 ## Areas of Work & Exploration
