@@ -60,7 +60,8 @@ I'm a Mathematics and Computer Science student at Northeastern University focuse
 
 - **YC AI Startup School** — Top 10% Attendees; invited to private dinner with YC Partner  
 - **YC 2025 Summer Conference** — Selected as **1 of 60** nationwide undergraduate attendees  
-- **YC Founders & Builders** — Invited participant  
+- **YC Founders & Builders** — Invited participant
+- **YC and MongoDB Hackathon** — Invited participant  
 - **Jane Street Summer Social** — Selected attendee  
 - **IMC Prosperity Quantitative Trading Challenge** — Top **5%** globally  
 - **USACO Platinum Division** — Top **1%** high school competitive programmers  
