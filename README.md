@@ -4,10 +4,9 @@ You’ll find a curated selection of my public work here. Much of my engineering
 
 If you’d like to review something in particular, feel free to reach out:
 
+**Website:** https://jpandya.com  
 **Email:** jaimanpandya@email.com  
 **LinkedIn:** https://www.linkedin.com/in/jaimanpandya
-**Personal Site:** https://jpandya.com
----
 
 ## About Me
 
