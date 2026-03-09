@@ -6,7 +6,7 @@ If you’d like to review something in particular, feel free to reach out:
 
 **Email:** jaimanpandya@email.com  
 **LinkedIn:** https://www.linkedin.com/in/jaimanpandya
-
+**Personal Site:** https://jpandya.com
 ---
 
 ## About Me
