@@ -1,98 +1,53 @@
-### Welcome to my GitHub!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,7&height=180&section=header&text=Hey!%20I'm%20Jaiman%20:)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</p>
 
-You’ll find a curated selection of my public work here. Much of my engineering work from internships and industry projects is kept private to respect company IP, but I’m always happy to walk through or provide access to specific codebases referenced in my resume.
+I'm a **CS + Math** student at **Northeastern University's Khoury College**. I specialize in distributed systems and machine learning engineering. My work spans production-grade backend systems, ML pipelines, and full-stack development. I love to build scalable and reliable software. 
 
-If you’d like to review something in particular, feel free to reach out:
+I recently interned at Sepal AI (YC S24), where I worked on distributed RL evaluations and deep reinforcement learning. The company was later acquired by Mercor in February 2026. I have also interned at Dartmouth-Hitchcock Medical Center where I built a novel convolutional neural network to classify anomalies across fourteen pathologies for chest X-ray detection. 
 
-**Website:** https://jpandya.com  
+> Much of my work from internships and industry projects remains private to respect company IP. I'm happy to provide access to specific repositories or discuss implementations in detail. Please feel free to reach out!
+
+**Website:** [jpandya.com](https://jpandya.com)  
 **Email:** jaimanpandya@email.com  
-**LinkedIn:** https://www.linkedin.com/in/jaimanpandya
-
-## About Me
-
-I'm a Mathematics and Computer Science student at Northeastern University focused on:
-
-- **Backend systems & distributed infrastructure**
-- **Cloud-native services (AWS, Docker, Kubernetes)**
-- **Machine learning pipelines & model experimentation**
-- **System reliability, caching, and performance optimization**
-- **Full-stack development with TypeScript, React, and Next.js**
+**LinkedIn:** [linkedin.com/in/jaimanpandya](https://www.linkedin.com/in/jaimanpandya)
 
 ---
-
-## Technical Skills
-
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat-square" />
-</p>
-
-### **Frameworks and Libraries**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
-</p>
-
-### **Infrastructure and Tools**
-<p>
-  <img src="https://img.shields.io/badge/AWS_ECS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white&style=flat-square" />
-</p>
-
+ 
+## Technical Focus
+ 
+I specialize in building distributed systems where scalability and reliability are non-negotiable. My work centers on designing backend architectures that handle high-throughput workloads through event-driven patterns and async message queuing. I've architected production systems using microservice orchestration with Docker and Kubernetes on AWS through implementing fault-tolerant pipelines that maintain state consistency across distributed worker nodes. Performance optimization is a core focus—whether that means profiling latency bottlenecks or designing Redis caching layers. I find system design decisions intriguing. I love figuring out where to draw service boundaries, how data flows through the architecture, and what deployment strategy actually works under production. 
+ 
+On the machine learning side, I build end-to-end pipelines from model training through production deployment. I have particular depth in PyTorch-based architectures for computer vision tasks, but I approach ML engineering with the same infrastructure rigor as backend systems. This means versioned datasets, reproducible training runs, and monitoring for model drift in production. My comfortability with React and TypeScript allows me to own features vertically when needed, but my core strength is backend infrastructure and the architectural decisions that determine whether systems scale gracefully or collapse under load.
+ 
+---
+ 
+## Comprehensive Tech Stack
+ 
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,ts,java,c,pytorch,tensorflow,redis,postgres,graphql,fastapi,react,nodejs,nextjs,nestjs,docker,kubernetes,aws,kafka,git)](https://skillicons.dev)
+ 
 ---
 
-## Honors and Awards
-
-- **YC AI Startup School** — Top 10% Attendees; invited to private dinner with YC Partner  
-- **YC 2025 Summer Conference** — Selected as **1 of 60** nationwide undergraduate attendees  
-- **YC Founders & Builders** — Invited participant
-- **YC and MongoDB Hackathon** — Invited participant  
-- **Jane Street Summer Social** — Selected attendee  
-- **IMC Prosperity Quantitative Trading Challenge** — Top **5%** globally  
-- **USACO Platinum Division** — Top **1%** high school competitive programmers  
-- **MIT Winter Informatics Tournament** — Top **20%**  
-- **MIT Informatics Tournament** — Top **15%**  
-- **University of San Diego Research Symposium** — Presenter
-
-
-## Recent Stuff
-
-### **VendorWatch | Y Combinator and MongoDB Hackathon (January 31st, 2026)**
-VendorWatch is a vendor risk monitoring system that tracks changes to what third-party vendors officially commit to in their terms, policies, pricing pages, and SLAs. It crawls vendor websites, extracts structured information like liability clauses, billing terms, data practices, and uptime guarantees, and stores versioned snapshots to detect meaningful changes over time. When those commitments change, VendorWatch generates categorized risk alerts and notifies teams so they can review potential legal, financial, or compliance exposure early.
-
-#### Tech Stack  
-Next.js, React, Tailwind CSS, Node.js, MongoDB, Firecrawl API, Reducto API, Resend API, Claude API, Railway
-
----
-
-## Areas of Work & Exploration
-
-- Distributed microservice orchestration  
-- FastAPI/Node.js backend APIs with Redis + PostgreSQL  
-- Docker/Kubernetes-based container orchestration  
-- ML pipelines: CNNs, PyTorch, attention modules  
-- React/Next.js full-stack development  
-- System reliability, latency analysis, caching strategies  
-
----
+## Recognition and Awards
+- YC Summer Conference '25
+- YC AI Startup School '25
+- YC Founders & Builders
+- YC and MongoDB Hackathon
+- Remark AI Talent and Startup Showcase
+- YHack 2026 — Yale University
+- LA Hacks 2026 — UCLA
+- Yale and HRT Undergraduate Trading Competition 
+- USA Computing Olympiad (USACO) Platinum Division 
+- IMC Prosperity Quantitative Trading Challenge 
+- MIT Informatics Tournament
+- MIT Winter Informatics Tournament 
+- Jane Street Summer Social
+- Research Symposium: Frontier in Soft Matter and Macromolecular Networks
+- Published Research @ Dartmouth-Hitchcock Medical Center
 
 ## Contact
 
-If you'd like to discuss my work, collaborate, or request access to private internship repositories:
+I am always open to discussing technical challenges, potential collaboration opportunities, or sharing insights from my work. For access to private repositories or detailed technical walkthroughs, please email me!
 
- **Email:** jaimanpandya@email.com  
- **LinkedIn:** https://www.linkedin.com/in/jaimanpandya
+**Email:** jaimanpandya@email.com  
+**LinkedIn:** [linkedin.com/in/jaimanpandya](https://www.linkedin.com/in/jaimanpandya)  
