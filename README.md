@@ -6,6 +6,8 @@ I'm a **CS + Math** student at **Northeastern University's Khoury College**. I s
 
 I recently interned at Sepal AI (YC S24), where I worked on distributed RL evaluations and deep reinforcement learning. The company was later acquired by Mercor in February 2026. I have also interned at Dartmouth-Hitchcock Medical Center where I built a novel convolutional neural network to classify anomalies across fourteen pathologies for chest X-ray detection. 
 
+I have been a competitive programmer for over four years and competed in the USA Computing Olympiad. I was ranked in the platinum division, which is composed of the top two-hundred high school competitive programmers. 
+
 > Much of my work from internships and industry projects remains private to respect company IP. I'm happy to provide access to specific repositories or discuss implementations in detail. Please feel free to reach out!
 
 **Website:** [jpandya.com](https://jpandya.com)  
