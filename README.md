@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.avif" width="100%" height="150">
+  <img src="banner.avif" width="100%" height="250">
 </p>
 
 I'm a **CS + Math** student at **Northeastern University's Khoury College**. I specialize in distributed systems and machine learning engineering. My work spans production-grade backend systems, ML pipelines, and full-stack development. I love to build scalable and reliable software. 
