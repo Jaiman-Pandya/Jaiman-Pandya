@@ -2,7 +2,7 @@
   <img src="banner.avif" width="100%" height="400">
 </p>
 
-I'm a **CS + Math** student at **Northeastern University's Khoury College**. I specialize in distributed systems and machine learning engineering. My work spans production-grade backend systems, ML pipelines, and full-stack development. I love to build scalable and reliable software. 
+I'm a double major in mathematics and computer science at **Northeastern University's Khoury College**. I specialize in distributed systems and machine learning engineering. My work spans production-grade backend systems, ML pipelines, and full-stack development. I love to build scalable and reliable software. 
 
 I recently interned at **Sepal AI (YC S24)**, where I worked on distributed RL evaluations and deep reinforcement learning. The company was later acquired by Mercor in February 2026. I have also interned at Dartmouth-Hitchcock Medical Center where I built a novel convolutional neural network to classify anomalies across fourteen pathologies for chest X-ray detection. 
 
