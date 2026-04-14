@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,7&height=180&section=header&text=Hey!%20I'm%20Jaiman%20:)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="banner.avif" width="100%">
 </p>
 
 I'm a **CS + Math** student at **Northeastern University's Khoury College**. I specialize in distributed systems and machine learning engineering. My work spans production-grade backend systems, ML pipelines, and full-stack development. I love to build scalable and reliable software. 
