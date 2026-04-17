@@ -8,7 +8,7 @@ I recently interned at **Sepal AI (YC S24)**. The company was later acquired by 
 
 I have been a competitive programmer for over four years and competed in the **USA Computing Olympiad**. I was ranked in the platinum division, which is composed of the top two-hundred high school competitive programmers. 
 
-I will be interning @ AllSpice.io in Summer 2026 doing GenAI work and improving agentic hardware design reviews with a talented team!
+I will be interning @ **AllSpice** as a remote software engineer intern in Summer 2026 doing GenAI work and improving agentic hardware design reviews alongside a cracked team!
 
 > Much of my work from internships and industry projects remains private to respect company IP. I'm happy to provide access to specific repositories or discuss implementations in detail. Please feel free to reach out!
 
