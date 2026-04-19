@@ -4,7 +4,7 @@ I recently interned at **Sepal AI (YC S24)**. The company was later acquired by 
 
 I have been a competitive programmer for over four years and competed in the **USA Computing Olympiad**. I was ranked in the platinum division, which is composed of the top two-hundred high school competitive programmers. 
 
-I will be interning @ **AllSpice** as a remote software engineer intern in Summer 2026 doing GenAI work and improving agentic hardware design reviews alongside a cracked team!
+I will be interning @ **AllSpice.io** as a remote software engineer intern in Summer 2026 doing GenAI work and improving agentic hardware design reviews alongside a cracked team!
 
 > Much of my work from internships and industry projects remains private to respect company IP. I'm happy to provide access to specific repositories or discuss implementations in detail. Please feel free to reach out!
 
@@ -28,7 +28,12 @@ On the machine learning side, I build end-to-end pipelines from model training t
 
 ## Comprehensive Tech Stack
  
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,ts,java,c,pytorch,tensorflow,redis,postgres,graphql,fastapi,react,nodejs,nextjs,nestjs,docker,kubernetes,aws,kafka,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,ts,java,c,pytorch,tensorflow,redis,postgres,graphql,fastapi,react,nodejs,nextjs,nestjs,docker,kubernetes,aws,kafka,git,go,githubactions)](https://skillicons.dev)
+
+**Languages:** Python, TypeScript, SQL, C++, Go  
+**Machine Learning:** Pydantic AI, LangChain, RAG, TensorFlow, PyTorch  
+**Systems:** FastAPI, Node.js, Redis, Kafka, Docker, Kubernetes  
+**Cloud:** AWS, PostgreSQL, GitHub Actions
  
 ---
 
