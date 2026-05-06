@@ -20,10 +20,6 @@ I specialize in building distributed systems where scalability and reliability a
  
 On the machine learning side, I build end-to-end pipelines from model training through production deployment. I have particular depth in PyTorch-based architectures for computer vision tasks, but I approach ML engineering with the same infrastructure rigor as backend systems. This means versioned datasets, reproducible training runs, and monitoring for model drift in production. My comfortability with React and TypeScript allows me to own features vertically when needed, but my core strength is backend infrastructure and the architectural decisions that determine whether systems scale gracefully or collapse under load.
 
-<p align="center">
-  <img src="redis.jpg" width="100%" height="550">
-</p>
-
 ---
 
 ## Comprehensive Tech Stack
